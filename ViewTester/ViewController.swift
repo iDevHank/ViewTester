@@ -7,13 +7,12 @@
 //
 
 import UIKit
-import Result
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         
     }
 
